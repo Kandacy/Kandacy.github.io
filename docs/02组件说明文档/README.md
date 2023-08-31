@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# 中文文档
+# 组件文档
 
 <!-- {% include list.liquid %} -->
 
