@@ -7,6 +7,7 @@ sort: 2
 - [标题(label-text)](./1.标题(label-text).md)
 - [指标翻牌器(stats-indi)](./2.指标翻牌器(stats-indi).md)
 - [单张图片(single-image)](./3.单张图片(single-image).md)
+- [TAB列表(tab-list-arc)](./4.TAB列表(tab-list-arc).md)
 
 ----------------
 
