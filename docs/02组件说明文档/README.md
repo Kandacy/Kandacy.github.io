@@ -8,6 +8,9 @@ sort: 2
 - [指标翻牌器(stats-indi)](./2.指标翻牌器(stats-indi).md)
 - [单张图片(single-image)](./3.单张图片(single-image).md)
 - [TAB列表(tab-list-arc)](./4.TAB列表(tab-list-arc).md)
+- [下钻表格2(drilldown-table-2)](./5.下钻表格2(drilldown-table-2).md)
+- [topn排名()](./6.topn排名().md)
+- [多系列面积(series-area)](./7.多系列面积(series-area).md)
 
 ----------------
 
